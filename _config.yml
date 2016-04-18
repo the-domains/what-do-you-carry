@@ -1,0 +1,28 @@
+name: What Do You Carry
+favicon: null
+layout_spectrum: 0.7797949416562915
+typography_spectrum: 0.7172140046022832
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4903125357814133
+  lightness: 0.49867494706995785
+  saturation: 0.19980348646640778
+  rhythmicContrast: 0.5056736199185252
+purpose: []
